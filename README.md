@@ -4,7 +4,7 @@ In modern javascript development, you will always need different libraries to wo
 However, having different libraries work together brings out some difficulties like conflicting each other. In order to resolve such issues, javascript libraries are encapsulated which is mostly called module.
 
 # History
-In a traditional way of Javascript development, dependencies and encapsulation are totally the responsibility of developers. This is mostyl done by loading libraries in a manual order.
+In a traditional way of Javascript development, dependencies and encapsulation are totally the responsibility of developers. This is mostly done by loading libraries in a manual order so that they do not conflict.
 
 This is a simple example of jQuery, Bootstrap page.
 
